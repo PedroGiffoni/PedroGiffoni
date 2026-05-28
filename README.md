@@ -37,9 +37,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrogiffoni&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1800"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrogiffoni&theme=tokyonight)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogiffoni&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrogiffoni&theme=tokyonight)
 
 </div>
 
